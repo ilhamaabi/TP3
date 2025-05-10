@@ -1,0 +1,103 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cv-container {
+    display: flex;
+    max-width: 900px;
+    margin: 40px auto;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    background-color: #fff;
+  }
+  
+  .left-panel {
+    width: 30%;
+    background-color: #8eb9e3;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .left-panel a {
+    color: #ffc107;
+    text-decoration: none;
+  }
+  
+  .profile-imghttps://web.whatsapp.com/ {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #fff;
+    margin-bottom: 15px;
+  }
+  
+  .right-panel {
+    width: 70%;
+    padding: 30px;
+  }
+  
+  .right-panel h3 {
+    border-bottom: 2px solid #003366;
+    padding-bottom: 5px;
+    margin-top: 25px;
+  }
+  
+  .right-panel ul {
+    list-style: disc;
+    padding-left: 20px;
+  }body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.cv-container {
+  display: flex;
+  max-width: 900px;
+  margin: 40px auto;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  background-color: #fff;
+}
+
+.left-panel {
+  width: 30%;
+  background-color: #003366;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.left-panel a {
+  color: #ffc107;
+  text-decoration: none;
+}
+
+.profile-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #fff;
+  margin-bottom: 15px;
+}
+
+.right-panel {
+  width: 70%;
+  padding: 30px;
+}
+
+.right-panel h3 {
+  border-bottom: 2px solid #003366;
+  padding-bottom: 5px;
+  margin-top: 25px;
+}
+
+.right-panel ul {
+  list-style: disc;
+  padding-left: 20px;
+}
